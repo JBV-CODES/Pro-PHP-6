@@ -10,12 +10,12 @@
 
 ## Parte I:
 
-1. Intro. a POO [resumen](https://github.com/JBV-CODES/Pro-PHP-6/Parte1/1.md)
-2. UML Lenguaje de Modelado unificado [resumen](https://github.com/JBV-CODES/Pro-PHP-6/Parte1/2.md)
-3. Trabajo con Objetos [resumen](https://github.com/JBV-CODES/Pro-PHP-6/Parte1/3.md)
-4. Patrones de diseño [resumen](https://github.com/JBV-CODES/Pro-PHP-6/Parte1/4.md)
-5. Colecciones [resumen](https://github.com/JBV-CODES/Pro-PHP-6/Parte1/5.md)
-6. Abstracción de BDA con PDO [resumen](https://github.com/JBV-CODES/Pro-PHP-6/Parte1/6.md)
+1. Intro. a POO [resumen](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte1/1.md)
+2. UML Lenguaje de Modelado unificado [resumen](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte1/2.md)
+3. Trabajo con Objetos [resumen](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte1/3.md)
+4. Patrones de diseño [resumen](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte1/4.md)
+5. Colecciones [resumen](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte1/5.md)
+6. Abstracción de BDA con PDO [resumen](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte1/6.md)
 
 ## Parte II: 
 
