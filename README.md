@@ -1,5 +1,5 @@
 # Pro-PHP-6
-978-84-415-2634-1
+[978-84-415-2634-1](http://www.wrox.com/WileyCDA/WroxTitle/Professional-PHP6.productCd-0470395095,descCd-tableOfContents.html)
 
 ## Intro.
 - Parte I: Fundamentos del desarrollo pro
@@ -10,23 +10,23 @@
 
 ## Parte I:
 
-1. Intro. a POO (http://)
-2. UML Lenguaje de Modelado unificado
-3. Trabajo con Objetos
-4. Patrones de diseño
-5. Colecciones
-6. Abstracción de BDA con PDO
+1. Intro. a POO [resumen](http://)
+2. UML Lenguaje de Modelado unificado [resumen](http://)
+3. Trabajo con Objetos [resumen](http://)
+4. Patrones de diseño [resumen](http://)
+5. Colecciones [resumen](http://)
+6. Abstracción de BDA con PDO [resumen](http://)
 
 ## Parte II: 
 
-7. Asignación de Relaciones del objeto
-8. Progamación controlada por eventos
-9. Registro y depuración
-10. Escribir y usar sevicios WEB
-11. Comunicación con usuarios
-12. Sesiones y autenticación
-13. Arquitectura de la aplicación
-14. Estractura de desarrollo APPs PHP
+7. Asignación de Relaciones del objeto [resumen](http://)
+8. Progamación controlada por eventos [resumen](http://)
+9. Registro y depuración [resumen](http://)
+10. Escribir y usar sevicios WEB [resumen](http://)
+11. Comunicación con usuarios [resumen](http://)
+12. Sesiones y autenticación [resumen](http://)
+13. Arquitectura de la aplicación [resumen](http://)
+14. Estractura de desarrollo APPs PHP [resumen]()
 
 ## Parte III:
 
