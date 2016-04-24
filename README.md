@@ -10,12 +10,12 @@
 
 ## Parte I:
 
-1. Intro. a POO [resumen](http://)
-2. UML Lenguaje de Modelado unificado [resumen](http://)
-3. Trabajo con Objetos [resumen](http://)
-4. Patrones de diseño [resumen](http://)
-5. Colecciones [resumen](http://)
-6. Abstracción de BDA con PDO [resumen](http://)
+1. Intro. a POO [resumen](Pro-PHP-6/Parte1/1.md)
+2. UML Lenguaje de Modelado unificado [resumen](Pro-PHP-6/Parte1/2.md)
+3. Trabajo con Objetos [resumen](Pro-PHP-6/Parte1/3.md)
+4. Patrones de diseño [resumen](Pro-PHP-6/Parte1/4.md)
+5. Colecciones [resumen](Pro-PHP-6/Parte1/5.md)
+6. Abstracción de BDA con PDO [resumen](Pro-PHP-6/Parte1/6.md)
 
 ## Parte II: 
 
