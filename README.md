@@ -11,15 +11,10 @@
 # PARTE I:
 
 1. Intro. a POO (http://)
- 
 2. UML Lenguaje de Modelado unificado
-
 3. Trabajo con Objetos
-
 4. Patrones de diseño
-
 5. Colecciones
- 
 6. Abstracción de BDA con PDO
 
 PARTE II: 
