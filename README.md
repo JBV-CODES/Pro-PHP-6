@@ -39,15 +39,16 @@
 21. Implantación
 
 ## PARTE IV:
+
 22. Administración de contenidos en PHP
 23. Control de tráfico y disponibilidad
 24. Defensa de PHP
 25. La carrera pro. de PHP
 
 ## APENDICES:
-A. Control de Version
-B. IDE de PHP
-C. Ajuste de rendimiento PHP
-D. Buenas prácticas para instalar PHP
+- A. Control de Version
+- B. IDE de PHP
+- C. Ajuste de rendimiento PHP
+- D. Buenas prácticas para instalar PHP
 
 
