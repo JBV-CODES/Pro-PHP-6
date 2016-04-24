@@ -1,19 +1,25 @@
 ## Pro-PHP-6
 978-84-415-2634-1
 
-## Intro.
+# Intro.
 - Parte I: Fundamentos del desarrollo pro
 - Parte II: Técnicas de desarrollo avanzado
 - Parte III: Estudio de caso real
 - Parte IV: PHP Llevado al límite
 - Parte V: Apendices
 
-## PARTE I:
--[1.](http://) Intro. a POO
--[2.]() UML Lenguaje de Modelado unificado
+# PARTE I:
+
+1. Intro. a POO (http://)
+ 
+2. UML Lenguaje de Modelado unificado
+
 3. Trabajo con Objetos
+
 4. Patrones de diseño
+
 5. Colecciones
+ 
 6. Abstracción de BDA con PDO
 
 PARTE II: 
