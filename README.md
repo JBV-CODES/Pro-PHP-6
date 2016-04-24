@@ -1,14 +1,14 @@
-## Pro-PHP-6
+# Pro-PHP-6
 978-84-415-2634-1
 
-# Intro.
+## Intro.
 - Parte I: Fundamentos del desarrollo pro
 - Parte II: Técnicas de desarrollo avanzado
 - Parte III: Estudio de caso real
 - Parte IV: PHP Llevado al límite
 - Parte V: Apendices
 
-# PARTE I:
+## PARTE I:
 
 1. Intro. a POO (http://)
 2. UML Lenguaje de Modelado unificado
@@ -17,7 +17,8 @@
 5. Colecciones
 6. Abstracción de BDA con PDO
 
-PARTE II: 
+## PARTE II: 
+
 7. Asignación de Relaciones del objeto
 8. Progamación controlada por eventos
 9. Registro y depuración
@@ -27,7 +28,8 @@ PARTE II:
 13. Arquitectura de la aplicación
 14. Estractura de desarrollo APPs PHP
 
-PARTE III:
+## PARTE III:
+
 15. Visión general del proyecto
 16. Administración del proyecto
 17. Planificación del proyeco
@@ -36,13 +38,13 @@ PARTE III:
 20. Garantia de calidad y pruebas
 21. Implantación
 
-PARTE IV:
+## PARTE IV:
 22. Administración de contenidos en PHP
 23. Control de tráfico y disponibilidad
 24. Defensa de PHP
 25. La carrera pro. de PHP
 
-APENDICES:
+## APENDICES:
 A. Control de Version
 B. IDE de PHP
 C. Ajuste de rendimiento PHP
