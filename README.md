@@ -9,8 +9,8 @@
 - Parte V: Apendices
 
 ## PARTE I:
-[1.]() Intro. a POO
-2. UML Lenguaje de Modelado unificado
+-[1.](http://) Intro. a POO
+-[2.]() UML Lenguaje de Modelado unificado
 3. Trabajo con Objetos
 4. Patrones de diseño
 5. Colecciones
