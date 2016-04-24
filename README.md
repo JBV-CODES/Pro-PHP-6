@@ -8,7 +8,7 @@
 - Parte IV: PHP Llevado al límite
 - Parte V: Apendices
 
-## PARTE I:
+## Parte I:
 
 1. Intro. a POO (http://)
 2. UML Lenguaje de Modelado unificado
@@ -17,7 +17,7 @@
 5. Colecciones
 6. Abstracción de BDA con PDO
 
-## PARTE II: 
+## Parte II: 
 
 7. Asignación de Relaciones del objeto
 8. Progamación controlada por eventos
@@ -28,7 +28,7 @@
 13. Arquitectura de la aplicación
 14. Estractura de desarrollo APPs PHP
 
-## PARTE III:
+## Parte III:
 
 15. Visión general del proyecto
 16. Administración del proyecto
@@ -38,14 +38,14 @@
 20. Garantia de calidad y pruebas
 21. Implantación
 
-## PARTE IV:
+## Parte IV:
 
 22. Administración de contenidos en PHP
 23. Control de tráfico y disponibilidad
 24. Defensa de PHP
 25. La carrera pro. de PHP
 
-## APENDICES:
+## Apendices:
 - A. Control de Version
 - B. IDE de PHP
 - C. Ajuste de rendimiento PHP
