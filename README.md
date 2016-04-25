@@ -4,10 +4,10 @@
 
 ## Intro.
 - [Parte I: Fundamentos del desarrollo pro](https://github.com/JBV-CODES/Pro-PHP-6#parte-i-fundamentos-del-desarrollo-pro)
-- [Parte II: Técnicas de desarrollo avanzado](https://github.com/JBV-CODES/Pro-PHP-6#parte-ii)
-- [Parte III: Estudio de caso real](https://github.com/JBV-CODES/Pro-PHP-6#parte-iii)
-- [Parte IV: PHP Llevado al límite](https://github.com/JBV-CODES/Pro-PHP-6#parte-iv)
-- [Parte V: Apendices](https://github.com/JBV-CODES/Pro-PHP-6#parte-v-apendices)
+- [Parte II: Técnicas de desarrollo avanzado](https://github.com/JBV-CODES/Pro-PHP-6#parte-ii-técnicas-de-desarrollo-avanzado)
+- [Parte III: Estudio de caso real]()
+- [Parte IV: PHP Llevado al límite]()
+- [Parte V: Apendices]()
 
 ## Parte I: Fundamentos del desarrollo Pro.
 
