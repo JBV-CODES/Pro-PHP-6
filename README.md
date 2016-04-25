@@ -11,7 +11,7 @@
 
 #### Parte I: Fundamentos del desarrollo Pro.
 
-1. Intro. a POO [resumen](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte1/1.md)
+1. [Intro. a POO](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte1/1.md)
 2. UML Lenguaje de Modelado unificado [resumen](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte1/2.md)
 3. Trabajo con Objetos [resumen](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte1/3.md)
 4. Patrones de diseño [resumen](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte1/4.md)
