@@ -46,7 +46,7 @@
 24. Defensa de PHP
 25. La carrera pro. de PHP
 
-## Apendices:
+## Parte V: Apendices
 - A. Control de Version
 - B. IDE de PHP
 - C. Ajuste de rendimiento PHP
