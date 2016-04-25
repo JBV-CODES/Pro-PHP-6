@@ -12,17 +12,17 @@
 #### Parte I: Fundamentos del desarrollo Pro.
 
 1. [Intro. a POO](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte1/1.md)
-2. UML Lenguaje de Modelado unificado [resumen](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte1/2.md)
-3. Trabajo con Objetos [resumen](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte1/3.md)
-4. Patrones de diseño [resumen](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte1/4.md)
-5. Colecciones [resumen](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte1/5.md)
-6. Abstracción de BDA con PDO [resumen](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte1/6.md)
+2. [UML Lenguaje de Modelado unificado](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte1/2.md)
+3. [Trabajo con Objetos](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte1/3.md)
+4. [Patrones de diseño](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte1/4.md)
+5. [Colecciones](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte1/5.md)
+6. [Abstracción de BDA con PDO](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte1/6.md)
 
 #### Parte II: Técnicas de desarrollo avanzado 
 
-7. Asignación de Relaciones del objeto [resumen](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/1.md)
-8. Progamación controlada por eventos [resumen](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/2.md)
-9. Registro y depuración [resumen](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/3.md)
+7. [Asignación de Relaciones del objeto](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/1.md)
+8. [Progamación controlada por eventos](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/2.md)
+9. [Registro y depuración](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/3.md)
 10. Escribir y usar sevicios WEB [resumen](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/4.md)
 11. Comunicación con usuarios [resumen](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/5.md)
 12. Sesiones y autenticación [resumen](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/6.md)
