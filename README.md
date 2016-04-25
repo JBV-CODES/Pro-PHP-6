@@ -7,7 +7,7 @@
 - [Parte II: Técnicas de desarrollo avanzado](https://github.com/JBV-CODES/Pro-PHP-6#parte-ii)
 - [Parte III: Estudio de caso real](https://github.com/JBV-CODES/Pro-PHP-6#parte-iii)
 - [Parte IV: PHP Llevado al límite](https://github.com/JBV-CODES/Pro-PHP-6#parte-iv)
-- [Parte V: Apendices](https://github.com/JBV-CODES/Pro-PHP-6#parte-v)
+- [Parte V: Apendices](https://github.com/JBV-CODES/Pro-PHP-6#parte-v-apendices)
 
 ## Parte I:
 
