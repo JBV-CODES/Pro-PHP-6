@@ -9,7 +9,7 @@
 - [Parte IV: PHP Llevado al límite](https://github.com/JBV-CODES/Pro-PHP-6#parte-iv)
 - [Parte V: Apendices](https://github.com/JBV-CODES/Pro-PHP-6#parte-v-apendices)
 
-## Parte I:
+## Parte I: Fundamentos del desarrollo Pro.
 
 1. Intro. a POO [resumen](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte1/1.md)
 2. UML Lenguaje de Modelado unificado [resumen](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte1/2.md)
@@ -18,7 +18,7 @@
 5. Colecciones [resumen](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte1/5.md)
 6. Abstracción de BDA con PDO [resumen](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte1/6.md)
 
-## Parte II: 
+## Parte II: Técnicas de desarrollo avanzado 
 
 7. Asignación de Relaciones del objeto [resumen](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/1.md)
 8. Progamación controlada por eventos [resumen](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/2.md)
@@ -29,7 +29,7 @@
 13. Arquitectura de la aplicación [resumen](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/7.md)
 14. Estractura de desarrollo APPs PHP [resumen](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/8.md)
 
-## Parte III:
+## Parte III: Estudio de caso real
 
 15. Visión general del proyecto
 16. Administración del proyecto
@@ -39,7 +39,7 @@
 20. Garantia de calidad y pruebas
 21. Implantación
 
-## Parte IV:
+## Parte IV: PHP Llevado al límite
 
 22. Administración de contenidos en PHP
 23. Control de tráfico y disponibilidad
