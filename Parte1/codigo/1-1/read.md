@@ -1,8 +1,11 @@
 ##1-1
 
-class.Cat.php					Cat class
-class.Cheetah.php				Cheetah class (subclass of Cat)
-class.Customer.php				Customer class
+> **class.Cat.php**					*Cat class*
+
+> **class.Cheetah.php**				*Cheetah class (subclass of Cat)*
+
+> **class.Customer.php**				*Customer class*
+
 class.Demo.php					Simplest possible class - start here!
 class.Demo.v2.php				Taking it to another level - our 'demo' class, version 2
 class.Demo.v3.php				Getting a little more sophisticated... demo class, version 3
