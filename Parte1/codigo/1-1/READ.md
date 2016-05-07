@@ -1,5 +1,4 @@
-##1-1
-
+##1-1 CODE FILES
 > **class.Cat.php**					*Cat class*
 
 > **class.Cheetah.php**				*Cheetah class (subclass of Cat)*
