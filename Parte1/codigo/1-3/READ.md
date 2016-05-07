@@ -1,7 +1,7 @@
-##2-3
-> **class.Address.php**          *The Address class*
+##1-3
+> **class.Address.php**          *The 'Address' class*
 
-> **class.PropertyObject.php**   *The PropertyObject class*
+> **class.PropertyObject.php**   *The 'PropertyObject' class*
 
 > **entity.sql**                 *Entity SQL Schema*
 
