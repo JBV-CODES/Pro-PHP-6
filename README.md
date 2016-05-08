@@ -23,11 +23,11 @@
 7. [Asignación de Relaciones del objeto](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/1.md)
 8. [Progamación controlada por eventos](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/2.md)
 9. [Registro y depuración](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/3.md)
-10. Escribir y usar sevicios WEB [resumen](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/4.md)
-11. Comunicación con usuarios [resumen](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/5.md)
-12. Sesiones y autenticación [resumen](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/6.md)
-13. Arquitectura de la aplicación [resumen](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/7.md)
-14. Estractura de desarrollo APPs PHP [resumen](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/8.md)
+10. [Escribir y usar sevicios WEB](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/4.md)
+11. [Comunicación con usuarios](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/5.md)
+12. [Sesiones y autenticación](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/6.md)
+13. [Arquitectura de la aplicación](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/7.md)
+14. [Estructura de desarrollo APPs de PHP](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/8.md)
 
 #### Parte III: Estudio de caso real
 
