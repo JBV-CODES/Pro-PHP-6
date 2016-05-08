@@ -1,0 +1,4 @@
+// Class Diagram
+// yuml.me
+[Cat|+weight;+furColor;+wishkerLength;+runningSpeed;|+eat();+sleep();+purr();+hunt(objPrey:Prey)]^-[Lion|+maneLength;|+roar();]
+[Cat|]^-[Cheetah|+numberofSpots|]
