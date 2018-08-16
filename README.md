@@ -32,26 +32,26 @@ E1: B 4-67/03037 E2: N 4-69/01186
 
 #### Parte III: Estudio de caso real
 
-15. Visión general del proyecto
-16. Administración del proyecto
-17. Planificación del proyeco
-18. Arquitectura de sistemas
-19. Crear la aplicación
-20. Garantia de calidad y pruebas
-21. Implantación
+15. [Visión general del proyecto]()
+16. [Administración del proyecto]()
+17. [Planificación del proyeco]()
+18. [Arquitectura de sistemas]()
+19. [Crear la aplicación]()
+20. [Garantia de calidad y pruebas]()
+21. [Implantación]()
 
 #### Parte IV: PHP Llevado al límite
 
-22. Administración de contenidos en PHP
-23. Control de tráfico y disponibilidad
-24. Defensa de PHP
-25. La carrera pro. de PHP
+22. [Administración de contenidos en PHP]()
+23. [Control de tráfico y disponibilidad]()
+24. [[Defensa de PHP]()
+25. [La carrera pro. de PHP]()
 
 #### Parte V: Apendices
-- A. Control de Version
-- B. IDE de PHP
-- C. Ajuste de rendimiento PHP
-- D. Buenas prácticas para instalar PHP
+- A. [Control de Version]()
+- B. [IDE de PHP]()
+- C. [Ajuste de rendimiento PHP]()
+- D. [Buenas prácticas para instalar PHP]()
 
 [book-image]: http://media.wiley.com/product_data/coverImage/95/04703950/0470395095.jpg
 [book-url]: http://www.wrox.com/WileyCDA/WroxTitle/Professional-PHP6.productCd-0470395095,descCd-tableOfContents.html
