@@ -21,37 +21,37 @@ E1: B 4-67/03037 E2: N 4-69/01186
 
 #### Parte II: Técnicas de desarrollo avanzado 
 
-7. [Asignación de Relaciones del objeto](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/1.md)
-8. [Progamación controlada por eventos](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/2.md)
-9. [Registro y depuración](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/3.md)
-10. [Escribir y usar sevicios WEB](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/4.md)
-11. [Comunicación con usuarios](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/5.md)
-12. [Sesiones y autenticación](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/6.md)
-13. [Arquitectura de la aplicación](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/7.md)
-14. [Estructura de desarrollo APPs de PHP](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/8.md)
+7. [Asignación de Relaciones del objeto](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/7.md)
+8. [Progamación controlada por eventos](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/8.md)
+9. [Registro y depuración](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/9.md)
+10. [Escribir y usar sevicios WEB](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/10.md)
+11. [Comunicación con usuarios](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/11.md)
+12. [Sesiones y autenticación](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/12.md)
+13. [Arquitectura de la aplicación](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/13.md)
+14. [Estructura de desarrollo APPs de PHP](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/14.md)
 
 #### Parte III: Estudio de caso real
 
-15. [Visión general del proyecto]()
-16. [Administración del proyecto]()
-17. [Planificación del proyeco]()
-18. [Arquitectura de sistemas]()
-19. [Crear la aplicación]()
-20. [Garantia de calidad y pruebas]()
-21. [Implantación]()
+15. [Visión general del proyecto](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte3/15.md)
+16. [Administración del proyecto](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte3/16.md)
+17. [Planificación del proyeco](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte3/17.md)
+18. [Arquitectura de sistemas](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte3/18.md)
+19. [Crear la aplicación](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte3/19.md)
+20. [Garantia de calidad y pruebas](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte3/20.md)
+21. [Implantación](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte3/21.md)
 
 #### Parte IV: PHP Llevado al límite
 
-22. [Administración de contenidos en PHP]()
-23. [Control de tráfico y disponibilidad]()
-24. [Defensa de PHP]()
-25. [La carrera pro. de PHP]()
+22. [Administración de contenidos en PHP](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte4/22.md)
+23. [Control de tráfico y disponibilidad](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte4/23.md)
+24. [Defensa de PHP](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte4/24.md)
+25. [La carrera pro. de PHP](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte4/25.md)
 
 #### Parte V: Apendices
-- A. [Control de Version]()
-- B. [IDE de PHP]()
-- C. [Ajuste de rendimiento PHP]()
-- D. [Buenas prácticas para instalar PHP]()
+- A. [Control de Version](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte5/A.md)
+- B. [IDE de PHP](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte5/B.md)
+- C. [Ajuste de rendimiento PHP](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte5/C.md)
+- D. [Buenas prácticas para instalar PHP](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte5/D.md)
 
 [book-image]: http://media.wiley.com/product_data/coverImage/95/04703950/0470395095.jpg
 [book-url]: http://www.wrox.com/WileyCDA/WroxTitle/Professional-PHP6.productCd-0470395095,descCd-tableOfContents.html
