@@ -44,7 +44,7 @@ E1: B 4-67/03037 E2: N 4-69/01186
 
 22. [Administración de contenidos en PHP]()
 23. [Control de tráfico y disponibilidad]()
-24. [[Defensa de PHP]()
+24. [Defensa de PHP]()
 25. [La carrera pro. de PHP]()
 
 #### Parte V: Apendices
